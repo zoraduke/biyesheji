@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"小红帽参战","characterIndex":0,"characterName":"小红帽","classId":1,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"小红帽大头","traits":[],"initialLevel":1,"maxLevel":99,"name":"小红帽","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"猎人","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"猎人表情","traits":[],"initialLevel":1,"maxLevel":99,"name":"猎人","nickname":"","note":"","profile":""}
+]
